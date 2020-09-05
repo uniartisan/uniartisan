@@ -51,6 +51,4 @@
 
 **Special Thanks To:**
 
-See how this work.[Gtihub](https://github.com/anuraghazra/github-readme-stats).
-
-See how to fetch newest article. [article](https://blog.monsterx.cn/code/update-your-posts-in-readme/).
+[See how this work](https://github.com/anuraghazra/github-readme-stats) | [See how to fetch newest article.](https://blog.monsterx.cn/code/update-your-posts-in-readme/)
