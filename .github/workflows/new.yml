@@ -1,0 +1,45 @@
+name: Renew posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  watch:
+    types: [started]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install
+        run: pip install feedparser
+
+      - name: Update
+        run: python build_readme.py
+
+      - name: Commit
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m \
+          ":pencil: Update at \
+          $(date +"%Y-%m-%d %H:%M") \
+          "
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
