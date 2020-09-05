@@ -1,6 +1,7 @@
 name: Renew posts
 
 on:
+  push:
   schedule:
     - cron: "0 */6 * * *"
   watch:
