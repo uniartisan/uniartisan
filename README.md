@@ -21,7 +21,8 @@
 🎉 爱好广泛，为人随和 <br />
 📃 喜欢搞钱💰 <br />
 🍻 除此之外没有什么特别热爱的东西 <br />
-🎯 PHP / Python / C / C++
+🎯 PHP / Python / C / C++ | BUG 制造机 <br />
+🎃 Just Enjoy Coding!
 
 </div>
 
