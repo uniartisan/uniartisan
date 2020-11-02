@@ -38,12 +38,12 @@
 
 <!-- posts start -->
 
+ ※ 《[无聊写写(一)](https://blog.uniartisan.com/archives/boring-writing-1.html)》01 Nov 2020<br />
  ※ 《[基于TVM实现ARM架构模型优化 | 安装篇](https://blog.uniartisan.com/archives/optimization-of-arm-architecture-model-based-on-tvm-pre.html)》16 Sep 2020<br />
  ※ 《[最近修bug的一些感受](https://blog.uniartisan.com/archives/some-feelings-about-fixing-bugs-recently.html)》28 Aug 2020<br />
  ※ 《[adblock_list 每日自动更新~](https://blog.uniartisan.com/archives/adblock-list.html)》24 Aug 2020<br />
  ※ 《[LoongArch 有感](https://blog.uniartisan.com/archives/loongarch.html)》19 Aug 2020<br />
  ※ 《[树莓派4.2寸三色墨水屏台历](https://blog.uniartisan.com/archives/raspberry-pie-42-three-color-ink-screen-calendar.html)》18 Aug 2020<br />
- ※ 《[如何写一份好的简历](https://blog.uniartisan.com/archives/how-to-write-a-good-resume.html)》08 Aug 2020<br />
 
 
  [Read more..](https://blog.uniartisan.com/)
