@@ -4,8 +4,8 @@
 
 **uniartisan  ENTP-A**
 
-> ENTP-A. 本科在读 <br />
-> 只要由想见的人，就不再是孤单一人
+> INTP-A. 本科在读 <br />
+> 只要有想见的人，就不再是孤单一人
 
 ![](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=HTML5&labelColor=e34f26&logoColor=fff) ![](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6&logoColor=fff) ![](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=fff) ![](https://img.shields.io/badge/-C/Cpp-a8b9cc?style=flat-square&logo=C&labelColor=a8b9cc&logoColor=fff) ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&labelColor=3776ab&logoColor=fff) ![](https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=Visual%20Studio%20Code&labelColor=007acc&logoColor=fff)
 
@@ -21,7 +21,7 @@
 🎉 爱好广泛，为人随和 <br />
 📃 喜欢搞钱💰 <br />
 🍻 除此之外没有什么特别热爱的东西 <br />
-🎯 PHP / Python / C / C++ | BUG 制造机 <br />
+🎯 PHP / Python / C / C++ / Dart / 安全方向 | BUG 制造机 <br />
 🎃 Just Enjoy Coding!
 
 </div>
