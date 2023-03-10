@@ -21,7 +21,8 @@
 🎉 爱好广泛，为人随和 <br />
 📃 喜欢搞钱💰 <br />
 🍻 除此之外没有什么特别热爱的东西 <br />
-🎯 PHP / Python / C / C++ / Dart / 安全方向 | BUG 制造机 <br />
+🎯 PHP / Python / C / C++ / 汇编语言 / 喜欢各种软硬件结合 | BUG 制造机 <br />
+🛰 工作站使用 Ubuntu，所以参与了[星火应用商店](https://gitee.com/deepin-community-store/spark-store)开发 <br />
 🎃 Just Enjoy Coding!
 
 </div>
