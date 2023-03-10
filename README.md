@@ -25,6 +25,8 @@
 🛰 工作站使用 Ubuntu，所以参与了[星火应用商店](https://gitee.com/deepin-community-store/spark-store)开发 <br />
 🎃 Just Enjoy Coding!
 
+[![Uniartisan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uniartisan&theme=github-light)](https://github.com/uniartisan/)
+
 </div>
 
 <br />
